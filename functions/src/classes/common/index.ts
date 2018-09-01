@@ -1,0 +1,1 @@
+export {isExists} from './DataBaseFunctions';
